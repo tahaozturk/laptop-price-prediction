@@ -31,7 +31,7 @@ pip install -r requirements.txt
 Run the `laptop_price_prediction.ipynb` notebook in Jupyter Notebook to train the model and make predictions.
 
 ## Data
-The `laptop_price.csv` dataset, which includes a variety of laptop features, is used for training. The model undergoes detailed preprocessing to prepare data for modeling, addressing both continuous and categorical features.
+The `laptop_price.csv` dataset, which includes a variety of laptop features, is used for training. The model undergoes detailed preprocessing to prepare data for modeling, addressing both continuous and categorical features. The dataset can be found in this repository.
 
 ## Model Performance
 The model's accuracy is assessed using MSE, RMSE, and R-squared metrics. Cross-validation scores are provided to evaluate the model's generalizability.
